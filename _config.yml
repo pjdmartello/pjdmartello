@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Patrick Martello
-theme: jeykll-theme-minimal
+#logo: 
+theme: jekyll-theme-minimal
